@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\unreal_practice\\SparataProject\\Source\\SparataProject\\SparataProject.Build.cs",
+		"D:\\unreal_practice\\SparataProject\\Source\\SparataProject.Target.cs",
+		"D:\\unreal_practice\\SparataProject\\Source\\SparataProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

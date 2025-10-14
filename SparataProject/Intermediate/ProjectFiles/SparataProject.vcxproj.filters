@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SparataProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SparataProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SparataProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SparataProject">
+      <UniqueIdentifier>{58A34CDE-7D3A-317A-8A0A-B9915E8A85D9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SparataProject\SparataProject.Build.cs">
+      <Filter>Source\SparataProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SparataProject\SparataProject.cpp">
+      <Filter>Source\SparataProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\SparataProject.h">
+      <Filter>Source\SparataProject</Filter>
+    </ClCompile>
+    <Filter Include="Source\SparataProject\Private">
+      <UniqueIdentifier>{8609E41A-CD77-3608-A6A4-54A39FF8561C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SparataProject\Private\BaseItem.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\BigCoinItem.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\CoinItem.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\HealingItem.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\Item.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\ItemInterface.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\ItemSpawnRow.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\MineItem.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\SmallCoinItem.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\SpartaCharacter.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\SpartaGameInstance.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\SpartaGameMode.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\SpartaGameState.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\SpartaPlayerController.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Private\SpawnVolume.cpp">
+      <Filter>Source\SparataProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\SparataProject\Public">
+      <UniqueIdentifier>{8183AA9A-D9D9-3A2F-B60D-E0493EAF3A8D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SparataProject\Public\BaseItem.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\BigCoinItem.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\CoinItem.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\HealingItem.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\Item.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\ItemInterface.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\ItemSpawnRow.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\MineItem.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\SmallCoinItem.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\SpartaCharacter.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\SpartaGameInstance.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\SpartaGameMode.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\SpartaGameState.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\SpartaPlayerController.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SparataProject\Public\SpawnVolume.h">
+      <Filter>Source\SparataProject\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

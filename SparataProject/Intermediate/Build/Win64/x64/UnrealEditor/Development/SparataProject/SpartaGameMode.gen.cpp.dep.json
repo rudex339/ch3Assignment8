@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\spartagamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\x64\\sparataprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sparataproject\\definitions.sparataproject.h",
+            "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\public\\spartagamemode.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemode.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemode.generated.h",
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\spartagamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

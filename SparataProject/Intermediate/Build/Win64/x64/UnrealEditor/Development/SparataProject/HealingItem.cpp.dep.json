@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\private\\healingitem.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\x64\\sparataprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sparataproject\\definitions.sparataproject.h",
+            "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\public\\healingitem.h",
+            "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\public\\baseitem.h",
+            "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\public\\iteminterface.h",
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\iteminterface.generated.h",
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\baseitem.generated.h",
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\healingitem.generated.h",
+            "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\public\\spartacharacter.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\spartacharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

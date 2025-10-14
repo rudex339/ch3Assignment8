@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\itemspawnrow.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\x64\\sparataprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sparataproject\\definitions.sparataproject.h",
+            "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\public\\itemspawnrow.h",
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\itemspawnrow.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

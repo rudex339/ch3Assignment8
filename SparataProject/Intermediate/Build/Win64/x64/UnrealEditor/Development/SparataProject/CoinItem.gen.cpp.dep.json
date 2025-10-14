@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\coinitem.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\x64\\sparataprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sparataproject\\definitions.sparataproject.h",
+            "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\public\\coinitem.h",
+            "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\public\\baseitem.h",
+            "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\public\\iteminterface.h",
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\iteminterface.generated.h",
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\baseitem.generated.h",
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\coinitem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

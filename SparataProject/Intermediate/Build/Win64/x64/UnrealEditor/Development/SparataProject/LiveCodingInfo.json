@@ -1,0 +1,40 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SparataProject.cpp.obj": [
+			"BaseItem.gen.cpp.obj",
+			"BigCoinItem.gen.cpp.obj",
+			"CoinItem.gen.cpp.obj",
+			"HealingItem.gen.cpp.obj",
+			"Item.gen.cpp.obj",
+			"ItemInterface.gen.cpp.obj",
+			"ItemSpawnRow.gen.cpp.obj",
+			"MineItem.gen.cpp.obj",
+			"SmallCoinItem.gen.cpp.obj",
+			"SparataProject.init.gen.cpp.obj",
+			"SpartaCharacter.gen.cpp.obj",
+			"SpartaGameInstance.gen.cpp.obj",
+			"SpartaGameMode.gen.cpp.obj",
+			"SpartaGameState.gen.cpp.obj",
+			"SpartaPlayerController.gen.cpp.obj",
+			"SpawnVolume.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"BaseItem.cpp.obj",
+			"BigCoinItem.cpp.obj",
+			"CoinItem.cpp.obj",
+			"HealingItem.cpp.obj",
+			"Item.cpp.obj",
+			"ItemInterface.cpp.obj",
+			"ItemSpawnRow.cpp.obj",
+			"MineItem.cpp.obj",
+			"SmallCoinItem.cpp.obj",
+			"SpartaCharacter.cpp.obj",
+			"SpartaGameInstance.cpp.obj",
+			"SpartaGameMode.cpp.obj",
+			"SpartaGameState.cpp.obj",
+			"SpartaPlayerController.cpp.obj",
+			"SpawnVolume.cpp.obj",
+			"SparataProject.cpp.obj"
+		]
+	}
+}

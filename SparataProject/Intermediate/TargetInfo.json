@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SparataProject",
+			"Path": "..\\Source\\SparataProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SparataProjectEditor",
+			"Path": "..\\Source\\SparataProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

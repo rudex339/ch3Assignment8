@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\private\\mineitem.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\x64\\sparataprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sparataproject\\definitions.sparataproject.h",
+            "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\public\\mineitem.h",
+            "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\public\\baseitem.h",
+            "d:\\unreal_practice\\sparataproject\\source\\sparataproject\\public\\iteminterface.h",
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\iteminterface.generated.h",
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\baseitem.generated.h",
+            "d:\\unreal_practice\\sparataproject\\intermediate\\build\\win64\\unrealeditor\\inc\\sparataproject\\uht\\mineitem.generated.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "d:\\epicgames_lib\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

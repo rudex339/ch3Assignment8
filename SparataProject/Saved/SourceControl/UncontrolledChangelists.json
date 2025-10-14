@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal_practice/SparataProject/Content/BluePrints/BP_SpartaCharacter.uasset",
+				"D:/unreal_practice/SparataProject/Content/BluePrints/BP_SpartaGameMode.uasset",
+				"D:/unreal_practice/SparataProject/Content/BluePrints/BP_SpartaPlayerController.uasset",
+				"D:/unreal_practice/SparataProject/Content/Inputs/IMC_Character.uasset",
+				"D:/unreal_practice/SparataProject/Content/BluePrints/ABP_Sparta.uasset",
+				"D:/unreal_practice/SparataProject/Content/Resources/Characters/Rigs/CR_Mannequin_BasicFootIK.uasset",
+				"D:/unreal_practice/SparataProject/Content/BluePrints/BP_BigCoinItem.uasset",
+				"D:/unreal_practice/SparataProject/Content/BluePrints/BP_HealingItem.uasset",
+				"D:/unreal_practice/SparataProject/Content/BluePrints/BP_SmallCoinItem.uasset",
+				"D:/unreal_practice/SparataProject/Content/BluePrints/BP_MineItem.uasset",
+				"D:/unreal_practice/SparataProject/Content/Resources/Maps/BasicLevel.umap",
+				"D:/unreal_practice/SparataProject/Content/DataTable/ItemSpawnTable.uasset",
+				"D:/unreal_practice/SparataProject/Content/DataTable/AdvancedLevelSpawnTable.uasset",
+				"D:/unreal_practice/SparataProject/Content/DataTable/BasicLevelSpawnTable.uasset",
+				"D:/unreal_practice/SparataProject/Content/DataTable/IntermediateLevelSpawnTable.uasset",
+				"D:/unreal_practice/SparataProject/Content/BluePrints/BP_SpawnVolume.uasset",
+				"D:/unreal_practice/SparataProject/Content/BP_SpartaGameInstance.uasset",
+				"D:/unreal_practice/SparataProject/Content/BP_SpartaGameState.uasset",
+				"D:/unreal_practice/SparataProject/Content/Resources/Maps/AdvancedLevel.umap",
+				"D:/unreal_practice/SparataProject/Content/Resources/Maps/IntermediateLevel.umap",
+				"D:/unreal_practice/SparataProject/Content/UI/WBP_HUB.uasset",
+				"D:/unreal_practice/SparataProject/Content/UI/WBP_MainMenu.uasset",
+				"D:/unreal_practice/SparataProject/Content/Resources/Maps/MenuLevel.umap",
+				"D:/unreal_practice/SparataProject/Content/UI/WBP_Hp.uasset",
+				"D:/unreal_practice/SparataProject/Content/MenuLevel.umap",
+				"D:/unreal_practice/SparataProject/Content/BluePrints/ItemSpawnTable.uasset",
+				"D:/unreal_practice/SparataProject/Content/DataTable/AdvancedLevelItemSpawnTable.uasset",
+				"D:/unreal_practice/SparataProject/Content/BP_SpawnVolume.uasset",
+				"D:/unreal_practice/SparataProject/Content/Map/Mainlevel.umap",
+				"D:/unreal_practice/SparataProject/Content/BP_MineItem.uasset"
+			]
+		}
+	]
+}
